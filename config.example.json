@@ -1,0 +1,8 @@
+{
+  "timetree_calendar_id": 12345678,
+  "timetree_session_id": "PASTE_YOUR_TIMETREE_SESSION_ID_HERE",
+  "google_calendar_id": "xxxxxxxxxxxxxxxx@group.calendar.google.com",
+  "expected_google_calendar_name": "Alexa読み上げ",
+  "test_date": null,
+  "pause_on_error": true
+}

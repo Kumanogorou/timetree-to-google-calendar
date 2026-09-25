@@ -1,0 +1,32 @@
+Repository name
+---------------
+timetree-to-google-calendar
+
+Description
+-----------
+One-way TimeTree → Google Calendar bridge for Alexa and automation, with OAuth recovery and dedicated-calendar safety checks.
+
+Topics
+------
+timetree
+google-calendar
+alexa
+python
+calendar
+automation
+google-calendar-api
+windows
+task-scheduler
+oauth2
+
+License
+-------
+MIT
+
+Initial release tag
+-------------------
+v1.0.0
+
+Release title
+-------------
+TimeTree to Google Calendar v1.0.0
